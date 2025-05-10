@@ -1,2 +1,6 @@
 This is bbbb file
+<<<<<<< HEAD
 This is third file
+=======
+This is cccc file
+>>>>>>> 95f787dc4b1228f12f8fa637acd68820ffd1fabd
